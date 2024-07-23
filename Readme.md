@@ -7,7 +7,10 @@ Ce script Python est conçu pour simplifier et automatiser les opérations récu
 ### Installation
 
 - Installez python 3 et pip.
-- installez les dépendances du script à l'aide de la commande "pip install -r requirements.txt"
+- installez les dépendances du script:
+```bash
+pip install -r requirements.txt"
+```
 
 ### Fonctionnement
 
